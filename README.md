@@ -1,4 +1,6 @@
-<img align="left" src="https://github.com/komalkuru/komalkuru/blob/main/Banner.png" width="1000" height="280">
+<div align="center">
+
+ [![MastHead](https://github.com/komalkuru/komalkuru/blob/main/Banner.png)](https://komalkuru.github.io/)
 
 <br/>
 <br/>
