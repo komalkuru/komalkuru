@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/komalkuru/komalkuru/blob/main/Banner.png" width="1000" height="340">
+<img align="left" src="https://github.com/komalkuru/komalkuru/blob/main/Banner.png" width="1000" height="280">
 
 <br/>
 <br/>
